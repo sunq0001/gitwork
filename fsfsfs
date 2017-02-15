@@ -1,0 +1,30 @@
+[33mcommit 7c38271d8bc8ccbdbc85351b30f140986717280d[m
+Merge: e004c78 e048eff
+Author: Sunny Sun <Sunny.Sun@sandisk.com>
+Date:   Wed Feb 15 17:29:29 2017 +0800
+
+    conflict fixed
+
+[33mcommit e004c784fa31ddaa1398f8f32ac78cb937580e49[m
+Author: Sunny Sun <Sunny.Sun@sandisk.com>
+Date:   Wed Feb 15 17:26:40 2017 +0800
+
+    &simple
+
+[33mcommit e048eff2d4540f63ed389b4bf98f9b0513319639[m
+Author: Sunny Sun <Sunny.Sun@sandisk.com>
+Date:   Wed Feb 15 17:23:12 2017 +0800
+
+    AND simple
+
+[33mcommit baf966e75b445f4cd2c0ca5c920bc596e89d05b1[m
+Author: Sunny Sun <Sunny.Sun@sandisk.com>
+Date:   Wed Feb 15 11:09:47 2017 +0800
+
+    branch test
+
+[33mcommit 921e50416c28736b57b39adc0b790c6bd01d40bc[m
+Author: Sunny Sun <Sunny.Sun@sandisk.com>
+Date:   Tue Feb 14 16:52:27 2017 +0800
+
+    add files
